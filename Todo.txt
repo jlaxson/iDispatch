@@ -1,0 +1,28 @@
+Todo:
+
+--
+Finish Treatment Count
+- Timer
+Summary Views
+--
+
+Map wrapup:
+- ui to initial set/clear location
+- new graphics for pins
+- add map control picker
+
+Cleanup
+Battle-harden for conflicts
+
+==== Low priority:
+Logs
+Event Config
+Station Config
+
+
+==== For Way Later
+APRS Gateway
+- Make more reliable with dead-man check
+- accept position reports for incidents
+- choose icon appropriately
+- filters on notification feed

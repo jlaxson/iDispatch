@@ -1,0 +1,18 @@
+[submodule "frameworks/sproutcore"]
+	path = frameworks/sproutcore
+	url = git@github.com:jlaxson/sproutcore.git
+[submodule "frameworks/scuds"]
+	path = frameworks/scuds
+	url = git://github.com/etgryphon/sproutcore-uds.git
+[submodule "frameworks/iweb"]
+	path = frameworks/iweb
+	url = git://git.xmms.se/xmms2/x2web-allad.git
+[submodule "frameworks/scui"]
+	path = frameworks/scui
+	url = git://github.com/etgryphon/sproutcore-ui.git
+[submodule "frameworks/g_map"]
+	path = frameworks/g_map
+	url = git@github.com:jlaxson/SC-GoogleMap.git
+[submodule "ext/Spriter"]
+	path = ext/Spriter
+	url = https://github.com/ialexi/Spriter.git
